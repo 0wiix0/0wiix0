@@ -12,9 +12,11 @@
 
 <p align="center">
   <a href="https://discord.gg/Gx765BBKnA">
-    <img src="https://img.shields.io/discord/775232281954353183?color=blue&label=Discord" alt="Discord Badge">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=flat-square" alt="Discord Badge">
   </a>
 </p>
+
+
 
 ---
 
